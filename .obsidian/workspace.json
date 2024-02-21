@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "df60376a06e3abbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "cde51dc8097b4ec9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48fa3db7a349ac0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSC2001F/Data Structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99e88cb61ca746da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSC2001F/Data Structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9c237ed9ee1a237",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-19 09.11.53.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61674be7c2e74ce6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6986557bbd8ecbd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5621daa2fce0a79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10c13a099944bfa5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e830edba2cc25ed0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7a90115426451fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "3293471cc7ec57e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9da0a56043cf67be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSC2001F/Data Structures.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9e8d2161c34a8dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CSC2001F/Data Structures.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf9c9d7738603bbb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d736aa4ffc5e69c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CSC2001F/Data Structures.md"
+              }
+            }
+          },
+          {
+            "id": "994d0995ee0d0a82",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "48fa3db7a349ac0a",
+  "lastOpenFiles": [
+    "Pasted image 20240220092444.png",
+    "Pasted image 20240220092209.png",
+    "Pasted image 20240219093758.png",
+    "Excalidraw/Drawing 2024-02-19 09.11.53.excalidraw.md",
+    "CSC2001F/Data Structures.md",
+    "Excalidraw",
+    "MAM2010F/Mahdi Help Me T_T.md",
+    "Pasted image 20240217122847.png",
+    "Pasted image 20240217122831.png",
+    "MAM2011F/Notes for MAM2011F (formerly module 2LA).pdf",
+    "MAM2011F",
+    "MAM2010F/Vector functions-Curves-I.pdf",
+    "MAM2010F",
+    "INF2009F/INF2009F- YHXJIN001- Exercise01_2024.pdf",
+    "Pasted image 20240216094449.png",
+    "Empirical Analysis.md"
+  ]
+}
